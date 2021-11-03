@@ -2,6 +2,6 @@ estoy viendo el curso de git, añadi este parrafo
 
 segunda linea
 
-tercera linea de UN ejemplo
+linea de UN ejemplo
 
 cuarta linea
