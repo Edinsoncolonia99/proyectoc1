@@ -1,5 +1,6 @@
 estoy viendo el curso de git, añadi este parrafo (agregue en git web)
 inserte linea para enviar 9:55 pm
+nueva linea 9;57
 
 segunda linea
 
