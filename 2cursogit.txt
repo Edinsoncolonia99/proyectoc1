@@ -12,3 +12,6 @@ ver cabecera
 
 para ver cabecera ahora : 7,01
 >>>>>>> cabecera
+
+agregado 2, agrego X
+agregado 3
