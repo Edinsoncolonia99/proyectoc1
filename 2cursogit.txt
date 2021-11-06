@@ -1,4 +1,4 @@
-estoy viendo el curso de git, añadi este parrafo
+estoy viendo el curso de git, añadi este parrafo (agregue en git web)
 
 segunda linea
 
